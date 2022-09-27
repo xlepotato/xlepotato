@@ -44,12 +44,12 @@ hobbies: ["Gaming", "Drawing", "Music", "Learning new things"]
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xlepotato&theme=jolly&layout=compact&langs_count=8" />
 </a>
 
+![Snake animation](https://github.com/xlepotato/xlepotato/blob/output/github-contribution-grid-snake.svg)
+
 ## 💬 Quote of the Day
 <p align="left">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/xlepotato/github-readme-quotes" />
 </p>
-
-![Snake animation](https://github.com/xlepotato/xlepotato/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer&animation=twinkling"/>
