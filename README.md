@@ -9,7 +9,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/quinnngwanying)
 
 
-### :seedling::hibiscus::seedling::hibiscus::seedling::hibiscus::seedling::hibiscus::seedling::hibiscus::seedling::hibiscus::seedling::hibiscus::seedling::hibiscus::seedling::hibiscus::seedling::hibiscus::seedling::hibiscus::seedling::hibiscus::seedling::hibiscus::seedling::hibiscus::seedling::hibiscus::seedling::hibiscus::seedling::hibiscus::seedling::hibiscus:
+### :seedling::hibiscus::seedling::hibiscus::seedling::hibiscus::seedling::hibiscus::seedling::hibiscus::seedling::hibiscus::seedling::hibiscus::seedling::hibiscus::seedling::hibiscus::seedling::hibiscus::seedling::hibiscus::seedling::hibiscus::seedling::hibiscus::seedling::hibiscus::seedling::hibiscus::seedling::hibiscus::seedling::hibiscus::seedling:
 
 ## 😎 About Me
 ```yaml
@@ -36,7 +36,7 @@ currently_learning:
    ]
 hobbies: ["Gaming", "Drawing", "Music", "Learning new things"]
 ```
-### :seedling::hibiscus::seedling::hibiscus::seedling::hibiscus::seedling::hibiscus::seedling::hibiscus::seedling::hibiscus::seedling::hibiscus::seedling::hibiscus::seedling::hibiscus::seedling::hibiscus::seedling::hibiscus::seedling::hibiscus::seedling::hibiscus::seedling::hibiscus::seedling::hibiscus::seedling::hibiscus::seedling::hibiscus::seedling::hibiscus:
+### :seedling::hibiscus::seedling::hibiscus::seedling::hibiscus::seedling::hibiscus::seedling::hibiscus::seedling::hibiscus::seedling::hibiscus::seedling::hibiscus::seedling::hibiscus::seedling::hibiscus::seedling::hibiscus::seedling::hibiscus::seedling::hibiscus::seedling::hibiscus::seedling::hibiscus::seedling::hibiscus::seedling::hibiscus::seedling:
 
 ## 📈 Github Stats
 <a href="https://github.com/thepiyushmalhotra">
