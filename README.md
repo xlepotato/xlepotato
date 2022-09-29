@@ -34,7 +34,7 @@ currently_learning:
 ```
 
 ## 📈 Github Stats
-<a href="https://github.com/thepiyushmalhotra">
+<a href="https://github.com/xlepotato">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xlepotato&theme=jolly&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xlepotato&theme=jolly&layout=compact&langs_count=8" />
 </a>
