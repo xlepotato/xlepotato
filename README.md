@@ -33,14 +33,6 @@ currently_learning:
    ]
 ```
 
-## 📈 Github Stats
-<a href="https://github.com/xlepotato">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xlepotato&count_private=true&include_all_commits=true&bg_color=-30,ff99cc,d9b3ff,b3ffff&title_color=99003d&text_color=fff&show_icons=true&icon_color=fff" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xlepotato&bg_color=30,b3ffff,d9b3ff,ff99cc&title_color=99003d&text_color=000&layout=compact&langs_count=8"/>
-</a>
-
-![Snake animation](https://github.com/xlepotato/xlepotato/blob/output/github-contribution-grid-snake.svg)
-
 ## 💬 Quote of the Day
 <p align="left">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/xlepotato/github-readme-quotes" />
